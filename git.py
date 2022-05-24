@@ -1,2 +1,2 @@
 print('Hello GitHub')
-print('Да, мы молодцы')
+print('Да, я молодец')
